@@ -1,1 +1,2 @@
 This is my first commit to push to code to git hub repo.
+It's my second commit 
