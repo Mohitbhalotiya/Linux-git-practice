@@ -1,2 +1,9 @@
 This is my first commit to push to code to git hub repo.
 It's my second commit 
+
+1. This is my first commit to push to code to git hub repo.
+2. This is my first github push from linux.
+3. Now I'm editing the file and tracking the changes.
+
+
+4. I've fixed this and continue the rebase.
