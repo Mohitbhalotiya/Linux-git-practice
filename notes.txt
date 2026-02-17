@@ -1,1 +1,1 @@
-This is my first commit using linux and initializing the method.:
+This is my first commit to push to code to git hub repo.
